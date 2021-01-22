@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokemon Search</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="title_search">Search</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_to_favourites">Add to favourites</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':pokemon'
+include ':app'
+rootProject.name = "Pokemon Search"
